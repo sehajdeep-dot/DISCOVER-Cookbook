@@ -26,18 +26,16 @@ While content is the heart of the project, the quality of the content needs to r
 
 For issues with other elements of the book, first make sure an issue is open and tracking can occur on the issue. Then open a [pull request](https://github.com/numfocus/DISCOVER-Cookbook/pulls).
 
-
 ### Public Health and Safety Pledge
 
-To promote the well-being of all participants, we encourage event organizers to include a Public Health and Safety Pledge in their communication materials. This pledge may include:
+To help ensure a safe, healthy, and inclusive environment at events, organizers are encouraged to adopt a Health and Safety Pledge. This may include:
 
-- Maintaining proper hygiene at events  
-- Encouraging participants to stay home if unwell  
-- Providing accessible sanitization stations  
-- Following venue-specific health guidelines  
-- Supporting an inclusive and safe environment for all attendees  
+- Promoting hygiene practices  
+- Ensuring accessibility for individuals with health conditions  
+- Following local health guidelines  
+- Encouraging participants to respect each other's well-being  
 
-This pledge helps ensure safety, comfort, and community responsibility during events and gatherings.
+The goal is to maintain a welcoming, safe, and inclusive event environment for everyone.
 
 
 
